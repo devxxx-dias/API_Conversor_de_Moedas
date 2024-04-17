@@ -31,6 +31,11 @@ Conversor de Moeda com o consumo da API exchangerate. Com as opções de convers
 A **API** utilizada foi da **API exchangerate**, com a possibilidade de consultar as conversões monetárias das principais 
 moedas internacionais, inclusive a brasileira.
 ![image](https://github.com/devxxx-dias/API_Conversor_de_Moedas/assets/104696883/4f016157-1242-4e45-b3e4-9a6b2f79cdfb)
+<https://www.exchangerate-api.com/docs/overview>
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 > O código possui potencial para inclusção de novas moedas.
 > O intuito principal é demonstrar a realização de um projeto em Java Backend com o consumo de API.
